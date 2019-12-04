@@ -39,5 +39,5 @@ WebUI.click(findTestObject('Object Repository/Automation Testing/Page_Summer Dre
 
 WebUI.click(findTestObject('Object Repository/Automation Testing/Page_Summer Dresses - My Store/span_Proceed to checkout'))
 
-WebUI.click(findTestObject('Object Repository/Automation Testing/Page_Order - My Store/a_Sign out'))
+WebUI.click(findTestObject('Object Repository/Automation Testing/Page_Order - My Store/a_Sign o
 
